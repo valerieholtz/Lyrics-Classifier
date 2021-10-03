@@ -5,7 +5,7 @@
 A python program to scrape lyrics from any artist on lyrics.com and train a lyrics predictor model to predict which artist the given lyrics belongs to.
 
 ## Usage: 
-The user is encouraged to enter two artists ain following format to run the program:
+The user is encouraged to enter two artists in following format to run the program:
 
 python lyrics_scraper.py artist1 artist2
 
