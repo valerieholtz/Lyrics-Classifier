@@ -1,4 +1,4 @@
-# lyrics_classifier
+# Lyrics Classifier
 
 ## Web Scraping and Natural Languace Processing on Lyrics
 
