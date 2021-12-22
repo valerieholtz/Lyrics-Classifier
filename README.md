@@ -24,10 +24,7 @@ scikit-learn
   
 ## Keywords:
 
-Web Scraping
-  
-BeautifulSoup
-  
-Machine Learning
-  
-NLP
+- Web Scraping
+- BeautifulSoup
+- Machine Learning
+- NLP
